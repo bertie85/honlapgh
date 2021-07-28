@@ -1,0 +1,2 @@
+# honlapgh
+Intézményi honlap
