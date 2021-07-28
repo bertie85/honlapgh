@@ -6,6 +6,9 @@ import Footer from './layout/footer/';
 import './App.css';
 
 class App extends Component {
+  
+  //TODO: Add global loader
+
   render() {
     return (
       <>

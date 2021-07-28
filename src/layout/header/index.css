@@ -9,3 +9,11 @@
   font-size: calc(10px + 1vmin);
   color: white;
 }
+
+.logo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4em;
+  color: white;
+}

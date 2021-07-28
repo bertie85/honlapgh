@@ -3,4 +3,10 @@
     color: whitesmoke;
     font-weight: bold;
     font-size: 0.8em;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
+.navbar ul li a:hover {
+    color: rgb(112, 194, 112);
 }
