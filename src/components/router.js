@@ -28,6 +28,6 @@ const Router = () => (
   </Switch>
 )
 
-const PageNotFound = () => (<h3>The page <code>{window.location.pathname}</code> does not exist.</h3>);
+const PageNotFound = () => (<h3>A www.gondviseles-haza.hu<code>{window.location.pathname}</code> címen nem található oldal.</h3>);
 
 export default Router;

@@ -7,13 +7,6 @@
   pointer-events: none;
 }
 
-.navbar ul li a {
-  background-color: #33251a;
-  color: whitesmoke;
-  font-weight: bold;
-  font-size: 0.8em;
-}
-
 .page {
   text-align: left;
   padding-top: 0.5em;

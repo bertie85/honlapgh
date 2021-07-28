@@ -1,8 +1,8 @@
 import Page from '../../components/page/page';
 
-const Home = () => (
-  <Page title="Home">
-    <h1>Nyitolap</h1>
+const Home = (props) => (
+  <Page title="Nyitólap">
+    <h1>Nyitólap</h1>
   </Page>
 );
 

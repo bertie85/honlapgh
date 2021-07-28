@@ -1,7 +1,7 @@
 import Page from '../../components/page/page';
 
-const Dokumentumok = () => (
-  <Page title="Home">
+const Dokumentumok = (props) => (
+  <Page title="Dokumentumok">
     <h1>Dokumentumok</h1>
   </Page>
 );

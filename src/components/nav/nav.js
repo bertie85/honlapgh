@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom';
 
+import "./style.css";
+
 const Nav = () => (
   <nav className="navbar navbar-expand-lg">
     <button className="navbar-toggler"
