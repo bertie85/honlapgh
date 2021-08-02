@@ -2,12 +2,66 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+.App-logo-page {
+  height: 13vmin;
   pointer-events: none;
+  position: absolute;
+  top: 50%;
+  /* position the top  edge of the element at the middle of the parent */
+  left: 50%;
+  /* position the left edge of the element at the middle of the parent */
+  transform: translate(-50%, 20%);
+  height: 50%;
+  width: 20%;
+  opacity: 0.4;
+  filter: blur(12px);
+  -webkit-filter: blur(12px);
+}
+
+.App-logo-header {
+  margin-top: 20px;
+  max-height: 200px;
+  filter: invert(100%) sepia(0%) saturate(1%) hue-rotate(3deg) brightness(104%) contrast(101%);
 }
 
 .page {
   text-align: left;
+  padding: 0;
   padding-top: 0.5em;
+}
+
+.page-section {
+  margin: 0;
+  display: unset;
+}
+
+.map {
+  border: none;
+  width: 100%;
+  margin-top: 1.8em;
+  height: 450px;
+}
+
+/* ======================= Text styles ========================== */
+
+h1 {
+  font-size: 4em;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  text-decoration: underline;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 1.7em;
+  text-transform: uppercase;
+  color: rgb(86, 104, 35);
+}
+
+p, .text {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 14pt;
+  color: rgb(65, 37, 6);
 }

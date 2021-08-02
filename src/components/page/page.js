@@ -1,8 +1,10 @@
 const Page = props => (
   <div className="container page">
-    {/* <p>This is the page component, that wraps all page contents directly</p>
-    <h2>{props.title || ""}</h2> */}
-    {props.children}
+    <h1>{props.title}</h1>
+    <div className="row">
+      <img className="App-logo-page" src="logo.png"></img>
+      {props.children}
+    </div>
   </div>
 )
 
