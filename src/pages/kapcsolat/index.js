@@ -1,5 +1,6 @@
 import Page from '../../components/page/page';
 import Section from '../../components/section/section';
+import { PersonCircle, EnvelopeFill, TelephoneFill, HouseFill } from 'react-bootstrap-icons';
 
 const Kapcsolat = (props) => (
   <Page title="Kapcsolat">
@@ -7,31 +8,31 @@ const Kapcsolat = (props) => (
       <div className="row">
         <Section title="Cím">
           <p>
-            1025, Budapest, Szilfa utca 4.
+            <HouseFill />&nbsp;1025, Budapest, Szilfa utca 4.
           </p>
         </Section>
 
         <Section title="Telefon">
           <p>
-            06 1 392 54 34
+            <TelephoneFill />&nbsp;06 1 392 54 34
           </p>
         </Section>
 
         <Section title="Email">
           <p>
-            gondviseles.haza@ferencesek.hu
+            <EnvelopeFill />&nbsp;gondviseles.haza@ferencesek.hu
           </p>
         </Section>
 
         <Section title="Intézményvezető">
           <p>
-            Mészáros Ágnes
+            <PersonCircle />&nbsp;Mészáros Ágnes
           </p>
         </Section>
       </div>
     </div>
 
-    <div className="col-8" col>
+    <div className="col-8">
       <div className="row">
         <iframe
           className="map"
