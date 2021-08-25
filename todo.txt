@@ -1,0 +1,32 @@
+TODO
+
+aktualitások, kövesse fb oldalunkat			
+dokumentumok						folyamatban
+ikonok							done
+rolunk							
+nyitólap, köszöntő
+footer							done
+fa, gm,
+responsive						
+breadcrumb						
+lazy loading						
+logo, nav gorgetesnel kicsinyuljon			
+angol szöveg						
+galéria							
+
+
+https://codeburst.io/deploying-and-hosting-a-react-app-on-an-apache-server-b7121dffb07a
+https://stackoverflow.com/questions/9831594/apache-and-node-js-on-the-same-server
+https://stackoverflow.com/questions/42461279/how-to-deploy-a-react-app-on-apache-web-server
+https://webhosticon.hu/ugyfelkapu/cart.php?a=add&pid=11
+https://doesmysiteneedhttps.com/
+https://create-react-app.dev/docs/deployment/
+https://www.pluralsight.com/guides/handling-react-routing-in-production
+
+
+https://sites.google.com/site/gdocs2direct/
+https://reactjs.org/docs/code-splitting.html#route-based-code-splitting
+https://codepen.io/ShayStibelman/pen/reJLy
+https://codepen.io/rm/pen/ldhon
+https://codepen.io/lhorak/pen/bEavyg
+https://codepen.io/mxttsco/pen/KgodYm
