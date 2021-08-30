@@ -4,7 +4,7 @@ import { PersonCircle, EnvelopeFill, TelephoneFill, HouseFill } from 'react-boot
 
 const Kapcsolat = (props) => (
   <Page title="Kapcsolat">
-    <div className="col-4">
+    <div className="col-xl-4 col-lg-6">
       <div className="row">
         <Section title="Cím">
           <p>
@@ -32,7 +32,7 @@ const Kapcsolat = (props) => (
       </div>
     </div>
 
-    <div className="col-8">
+    <div className="col-xl-8 col-lg-6">
       <div className="row">
         <iframe
           className="map"

@@ -116,7 +116,7 @@ const Szolgaltatasok = (props) => (
 
       <p>És még sok más.</p>
       <p>Az Idősek Klubjának szolgáltatásai, a programokon való részvétel klubtagság esetén térítésmentesek. Bővebb felvilágosítás
-        Pádár Ágnes és Szekeres Bertold klubgondozóktól kérhető a <u>06 20 250 3692</u> telefonszámon.
+        Sándor Viktória és Szekeres Bertold klubgondozóktól kérhető a <u>06 20 250 3692</u> telefonszámon.
       </p>
 
     </Section>

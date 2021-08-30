@@ -14,6 +14,15 @@ logo, nav gorgetesnel kicsinyuljon
 angol szöveg						
 galéria							
 
+Google keresőben
+
+Bemutatkozás,
+Étkeztetéssel
+Gondozással
+Klubal kapcsolatos infok
+Letölthető dokumentumok
+Galéria
+
 
 https://codeburst.io/deploying-and-hosting-a-react-app-on-an-apache-server-b7121dffb07a
 https://stackoverflow.com/questions/9831594/apache-and-node-js-on-the-same-server
@@ -22,6 +31,11 @@ https://webhosticon.hu/ugyfelkapu/cart.php?a=add&pid=11
 https://doesmysiteneedhttps.com/
 https://create-react-app.dev/docs/deployment/
 https://www.pluralsight.com/guides/handling-react-routing-in-production
+https://nodemailer.com/about/
+https://medium.com/geekculture/how-to-use-nodemailer-with-gmail-to-send-e-mails-7198e707025d
+https://www.npmjs.com/package/pdfmake
+https://www.npmjs.com/package/pdfkit
+
 
 
 https://sites.google.com/site/gdocs2direct/
@@ -30,3 +44,25 @@ https://codepen.io/ShayStibelman/pen/reJLy
 https://codepen.io/rm/pen/ldhon
 https://codepen.io/lhorak/pen/bEavyg
 https://codepen.io/mxttsco/pen/KgodYm
+
+
+
+https://www.gondviseles-haza.hu/
+https://client.ezit.hu/cart.php?a=add&domain=register&query=gondviseles-haza.hu&token=b1ae6ff691ab5de0d10b0cfa0a119ebd6729ba8e&direct=true&systpl=lagom&carttpl=lagom&_ga=2.207968018.1036727606.1627374843-1149509498.1627374843
+
+
+https://sites.google.com/site/gdocs2direct/
+https://reactjs.org/docs/code-splitting.html#route-based-code-splitting
+https://codepen.io/ShayStibelman/pen/reJLy
+https://codepen.io/rm/pen/ldhon
+https://codepen.io/lhorak/pen/bEavyg
+https://codepen.io/mxttsco/pen/KgodYm
+https://www.nethely.hu/tarhely
+
+fizetőst itt érdemes
+https://www.024reg.com/tarhely/
+
+ingyenest itt érdemes
+https://schema.org/WebPage
+
+https://www.telerik.com/blogs/understanding-server-side-rendering

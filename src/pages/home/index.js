@@ -7,6 +7,10 @@ const Home = (props) => (
     </p>
 
     <cite>/Assisi Szent Ferenc</cite>
+
+    <div className="img-container">
+      <img className="index-img" src="indeximg.jpg"></img>
+    </div>
   </Page>
 );
 

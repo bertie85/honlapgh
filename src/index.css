@@ -12,3 +12,54 @@ code {
   color: whitesmoke;
   background-color: gray;
 }
+
+.img-container {
+  border-radius: 50%;
+  box-shadow: 0 0 8px 8px white inset;
+}
+
+.container.page {
+  min-height: 50vh;
+  width: 55%;
+  text-align: left;
+  border-left: burlywood solid 1px;
+  border-right: burlywood solid 1px;
+  padding: 0;
+}
+
+.page-section {
+  margin: 0;
+  display: unset;
+}
+
+.row {
+  margin: auto;
+}
+
+/* ======================= Text styles ========================== */
+
+h1 {
+  font-size: calc(0.5em + 2.8vw);
+  margin-bottom: calc(0.2em + 1vh);
+}
+
+h2 {
+  font-size: 1.7vw;
+  font-weight: bold;
+  font-variant-caps: all-petite-caps;
+  text-transform: uppercase;
+  color: rgb(97, 104, 54);
+}
+
+p, .text {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: calc(0.1em + 0.9vw);
+  color: rgb(65, 37, 6);
+}
+
+@media (max-width: 800px) {
+  .container.page {
+    width: 100%;
+  }
+}

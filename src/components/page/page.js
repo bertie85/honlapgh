@@ -1,9 +1,13 @@
 const Page = props => (
   <div className="container page">
-    <h1>{props.title}</h1>
     <div className="row">
-      <img className="App-logo-page" src="logo.png"></img>
+      <div className="col">
+        <h1>{props.title}</h1>
+      </div>
+    </div>
+    <div className="row">
       {props.children}
+      <img className="App-logo-page" src="logo.png"></img>
     </div>
   </div>
 )

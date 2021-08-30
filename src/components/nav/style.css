@@ -1,16 +1,15 @@
 .navbar ul li a {
-    max-height: 50px;
-    min-height: 50px;
+    max-height: 30px;
+    min-height: 30px;
     background-color: #33251a;
     color: whitesmoke;
     font-weight: bold;
-    font-size: 0.8em;
+    font-size: 0.6em;
     text-transform: uppercase;
-    margin-left: 14px;
-    margin-right: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .navbar ul li a:hover {
     color: rgb(155, 207, 95);
-    border-bottom: 2px solid rgb(155, 207, 95);
 }
