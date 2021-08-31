@@ -7,7 +7,7 @@ const Page = props => (
     </div>
     <div className="row">
       {props.children}
-      <img className="App-logo-page" src="logo.png"></img>
+      <img id="App-logo-page" className="App-logo-page" src="logo.png"></img>
     </div>
   </div>
 )

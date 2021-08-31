@@ -13,11 +13,6 @@ code {
   background-color: gray;
 }
 
-.img-container {
-  border-radius: 50%;
-  box-shadow: 0 0 8px 8px white inset;
-}
-
 .container.page {
   min-height: 50vh;
   width: 55%;
@@ -60,6 +55,9 @@ p, .text {
 
 @media (max-width: 800px) {
   .container.page {
+    width: 100%;
+  }
+  .App-footer {
     width: 100%;
   }
 }

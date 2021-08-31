@@ -1,11 +1,12 @@
 
 .App-footer {
-  min-height: 20vh;
+  min-height: 15vh;
   height: auto;
-  width: 100%;
-  margin-top: 50px;
+  width: 55%;
+  margin: auto;
+  margin-top: 10px;
   padding-top: 20px;
   padding-bottom: 20px;
-  border-top: dashed 2px rgb(65, 37, 6);
+  border-bottom: solid 15px rgba(65, 37, 6, 0.8);
   background-color: rgba(178, 168, 50, 0.2);
 }
