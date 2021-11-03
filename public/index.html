@@ -71,7 +71,7 @@
 
   const getDelay = () => {
     // TODO: slow it down, once it starts to reach the top or the bottom
-    return 100 + Math.abs(Math.sqrt(checkScrollSpeed()));
+    return Math.round(100 + Math.abs(Math.sqrt(checkScrollSpeed())));
   }
 
   window.onscroll = (e) => {
