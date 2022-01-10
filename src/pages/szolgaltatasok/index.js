@@ -78,7 +78,7 @@ const Szolgaltatasok = (props) => (
       </p>
     </Section>
 
-    <Section title="Idősek klubja">
+    <Section title="Nappali ellátás">
       <p>
         A lelki élményekre is odafigyelve nyújtunk szabadidős programokat és lehetőséget napközbeni tartózkodásra, csendes, szép környezetben.
 

@@ -6,5 +6,15 @@
   justify-content: center;
   font-size: calc(10px + 1vmin);
   color: white;
+  border-bottom: antiquewhite 2px solid;
   height: 50px;
+}
+
+.navbar {
+  text-align: right;
+}
+
+.navbar li {
+  display: inline-block;
+  margin-right: 1 em;
 }

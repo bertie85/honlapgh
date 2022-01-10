@@ -1,27 +1,29 @@
 TODO
 
-aktualitások, kövesse fb oldalunkat			
-dokumentumok						folyamatban
-ikonok							done
-rolunk							
-nyitólap, köszöntő
-footer							done
-fa, gm,
-responsive						
-breadcrumb						
-lazy loading						
-logo, nav gorgetesnel kicsinyuljon			
-angol szöveg						
-galéria							
+képek a szolgáltatásokhoz           
+nav logo                            
+nyomtatványok            						done
+footer							                done
+nyitólap, köszöntő                  done
+aktualitások, kövesse fb           	
+aktive link                         
+ikonok							                done
+rolunk							                done
+rolunk képek                        
+responsive						              done
+breadcrumb						              
+lazy loading						             
+galéria							                
 
+angol szöveg						            
 Google keresőben
 
-Bemutatkozás,
-Étkeztetéssel
-Gondozással
-Klubal kapcsolatos infok
-Letölthető dokumentumok
-Galéria
+
+.App-logo-header {
+  margin-top: 20px;
+  max-height: 200px;
+  filter: invert(100%) sepia(0%) saturate(1%) hue-rotate(3deg) brightness(104%) contrast(101%);
+}
 
 
 https://codeburst.io/deploying-and-hosting-a-react-app-on-an-apache-server-b7121dffb07a

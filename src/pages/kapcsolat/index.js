@@ -7,25 +7,25 @@ const Kapcsolat = (props) => (
     <div className="col-xl-4 col-lg-6">
       <div className="row">
         <Section title="Cím">
-          <p>
+          <p className='d-flex align-items-center'>
             <HouseFill />&nbsp;1025, Budapest, Szilfa utca 4.
           </p>
         </Section>
 
         <Section title="Telefon">
-          <p>
+          <p className='d-flex align-items-center'>
             <TelephoneFill />&nbsp;06 1 392 54 34
           </p>
         </Section>
 
         <Section title="Email">
-          <p>
+          <p className='d-flex align-items-center'>
             <EnvelopeFill />&nbsp;gondviseles.haza@ferencesek.hu
           </p>
         </Section>
 
         <Section title="Intézményvezető">
-          <p>
+          <p className='d-flex align-items-center'>
             <PersonCircle />&nbsp;Mészáros Ágnes
           </p>
         </Section>

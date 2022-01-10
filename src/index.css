@@ -36,6 +36,10 @@ code {
 h1 {
   font-size: calc(0.5em + 2.8vw);
   margin-bottom: calc(0.2em + 1vh);
+  width: 100%;
+  letter-spacing: .4rem;
+  text-transform: uppercase;
+  opacity: .4;
 }
 
 h2 {
@@ -44,6 +48,7 @@ h2 {
   font-variant-caps: all-petite-caps;
   text-transform: uppercase;
   color: rgb(97, 104, 54);
+  margin-bottom: 20px;
 }
 
 p, .text {
@@ -51,12 +56,22 @@ p, .text {
   font-weight: bold;
   font-size: calc(0.1em + 0.9vw);
   color: rgb(65, 37, 6);
+  text-align: justify;
+}
+
+a {
+  color: rgb(65, 37, 6);
+}
+
+a:hover {
+  /* color: rgb(155, 207, 95); */
 }
 
 @media (max-width: 800px) {
   .container.page {
     width: 100%;
   }
+
   .App-footer {
     width: 100%;
   }

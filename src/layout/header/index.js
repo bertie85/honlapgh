@@ -4,9 +4,6 @@ import './style.css';
 
 const Header = (props) => (
   <header className="App-header">
-    {/* <Link className="nav-link" to="/"> */}
-      {/* <img className="App-logo-header" src="logo.png"></img> */}
-    {/* </Link> */}
     <Nav />
   </header>
 )
