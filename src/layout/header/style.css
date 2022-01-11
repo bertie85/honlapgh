@@ -7,7 +7,21 @@
   font-size: calc(10px + 1vmin);
   color: white;
   border-bottom: antiquewhite 2px solid;
-  height: 50px;
+  height: 80px;
+}
+
+.container.header {
+  width: 55%;
+  /* padding: 15; */
+}
+
+.header-logo {
+  max-height: 55px;
+  min-width: 40px;
+  filter: brightness(100);
+  /* border: aliceblue solid 1px; */
+  /* border-radius: 5px; */
+  /* padding: 2%; */
 }
 
 .navbar {

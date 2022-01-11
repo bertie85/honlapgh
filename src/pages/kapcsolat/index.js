@@ -37,7 +37,7 @@ const Kapcsolat = (props) => (
         <iframe
           className="map"
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2694.1903199487197!2d18.98941091581868!3d47.5251576015934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741ded232a8be0b%3A0x498d9e3a4c5820e6!2sBudapest%2C%20Szilfa%20u.%204%2C%201025!5e0!3m2!1shu!2shu!4v1627885949579!5m2!1shu!2shu"
-          allowfullscreen=""
+          allowFullScreen=""
           loading="lazy">
         </iframe>
       </div>

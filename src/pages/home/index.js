@@ -33,7 +33,7 @@ const Home = (props) => (
       <cite>/Assisi Szent Ferenc</cite>
 
       <div className="img-container mb-3">
-        <img className="index-img" src="indeximg.jpg"></img>
+        <img className="img" alt='gondviseles haza mozaik' src="indeximg.jpg"></img>
       </div>
     </Section>
   </Page>

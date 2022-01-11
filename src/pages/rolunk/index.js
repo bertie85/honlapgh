@@ -17,6 +17,10 @@ const Rolunk = (props) => (
       </p>
 
       <cite>/Mt 11,28</cite>
+
+      <div className="img-container mb-3">
+        <img className="img" src="rolunkimg.jpg" alt='gondviseles haza' loading='lazy'></img>
+      </div>
     </Section>
   </Page>
 );
