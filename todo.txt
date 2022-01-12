@@ -12,7 +12,8 @@ rolunk							                done
 rolunk képek                        
 responsive						              done
 breadcrumb						              
-lazy loading						             
+img lazy loading						        done
+faq                                 
 galéria							                
 
 angol szöveg						            

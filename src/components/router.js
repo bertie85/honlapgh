@@ -4,6 +4,7 @@ import About from '../pages/rolunk';
 import Szolgaltatasok from '../pages/szolgaltatasok';
 import Nyomtatvanyok from '../pages/nyomtatvanyok';
 import Kapcsolat from '../pages/kapcsolat';
+import Page from '../components/page/page';
 
 const Router = () => (
   <Switch>
@@ -28,6 +29,10 @@ const Router = () => (
   </Switch>
 )
 
-const PageNotFound = () => (<h3>A www.gondviseles-haza.hu<code>{window.location.pathname}</code> címen nem található oldal.</h3>);
+const PageNotFound = () => (
+  <Page title="404">
+    <h3 className='mt-5'>A www.gondviseles-haza.hu<code>{window.location.pathname}</code> címen nem található oldal.</h3>
+  </Page>
+);
 
 export default Router;
