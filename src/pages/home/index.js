@@ -1,5 +1,6 @@
 import Page from '../../components/page/page';
 import Section from '../../components/section/section';
+import "./style.css";
 
 const Home = (props) => (
   <Page title="">
@@ -33,7 +34,7 @@ const Home = (props) => (
       <cite>/Assisi Szent Ferenc</cite>
 
       <div className="img-container mb-3">
-        <img className="img" alt='gondviseles haza mozaik' src="indeximg.jpg"></img>
+        <img className="home-img" alt='gondviseles haza mozaik' src="indeximg.jpg"></img>
       </div>
     </Section>
   </Page>

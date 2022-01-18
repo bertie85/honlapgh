@@ -1,0 +1,16 @@
+.home-img {
+    max-width: 80%;
+    /* margin-top: 40px; */
+    height: auto;
+    /* min-width: 80%; */
+    /* border-radius: 10px; */
+    border-radius: 50%;
+    /* filter: blur(1px); */
+    /* filter: contrast(140%); */
+    /* filter: brightness(90%); */
+    /* filter: grayscale(50%); */
+    filter: sepia(30%);
+    /* filter: hue-rotate(30deg); */
+    /* filter: invert(90%); */
+    /* filter: saturate(100%); */
+}

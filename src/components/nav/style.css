@@ -1,8 +1,6 @@
 .navbar ul li a {
-    max-height: 30px;
     min-height: 30px;
     background-color: #473324;
-    color: whitesmoke;
     font-weight: bold;
     font-size: 0.7em;
     text-transform: uppercase;
@@ -10,6 +8,10 @@
     margin-right: 10px;
 }
 
-.navbar ul li a:hover {
-    color: rgb(155, 207, 95);
+.navbar ul li a:focus {
+    color: whitesmoke !important;
+}
+
+.navbar ul li a:active {
+    color: greenyellow !important;
 }

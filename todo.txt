@@ -7,12 +7,10 @@ footer							                done
 nyitólap, köszöntő                  done
 aktualitások, kövesse fb           	
 aktive link                         
-ikonok							                done
-rolunk							                done
+ikonok							                
+tabindex                            
 rolunk képek                        
-responsive						              done
 breadcrumb						              
-img lazy loading						        done
 faq                                 
 galéria							                
 

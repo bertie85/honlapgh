@@ -1,5 +1,6 @@
 import Page from '../../components/page/page';
 import Section from '../../components/section/section';
+import "./style.css";
 
 const Rolunk = (props) => (
   <Page title="Rólunk">
@@ -19,7 +20,7 @@ const Rolunk = (props) => (
       <cite>/Mt 11,28</cite>
 
       <div className="img-container mb-3">
-        <img className="img" src="rolunkimg.jpg" alt='gondviseles haza' loading='lazy'></img>
+        <img className="rolunk-img" src="rolunkimg.jpg" alt='gondviseles haza' loading='lazy'></img>
       </div>
     </Section>
   </Page>

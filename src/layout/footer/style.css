@@ -1,22 +1,22 @@
 .App-footer {
   min-height: 15vh;
-  height: auto;
   text-align: left;
-  width: 55%;
+  width: 100%;
   margin: auto;
-  margin-top: 10px;
   padding-top: 20px;
   padding-bottom: 20px;
   border-bottom: solid 15px rgba(65, 37, 6, 0.8);
+  border-top: solid 1px wheat;
   background-color: rgba(178, 168, 50, 0.2);
+}
+
+.App-footer img {
+  max-height: 130px;
+  width: auto;
 }
 
 .nav-link {
   padding: .25rem;
-}
-
-.img-container img {
-  width: 25%;
 }
 
 .kapcsolat {

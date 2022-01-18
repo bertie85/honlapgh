@@ -1,11 +1,11 @@
-import './style.css';
 import { Link } from 'react-router-dom';
 import { PersonCircle, EnvelopeFill, TelephoneFill, HouseFill } from 'react-bootstrap-icons';
+import './style.css';
 
 const Footer = () => (
-  <footer className="App-footer row">
+  <footer className="App-footer row justify-content-lg-center">
     {/* Nav */}
-    <div className="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div className="col-lg-2 col-md-4 col-sm-6 col-xs-12 mb-1">
       <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
         <li className="nav-item">
           <Link className="nav-link" to="/rolunk">Rólunk</Link>
@@ -23,7 +23,7 @@ const Footer = () => (
     </div>
 
     {/* Kapcsolat */}
-    <div className="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div className="col-lg-4 col-md-4 col-sm-6 col-xs-12 my-1">
       <div className="row align-items-center">
         <HouseFill />&nbsp;1025, Budapest, Szilfa utca 4.
       </div>
@@ -42,7 +42,7 @@ const Footer = () => (
     </div>
 
     {/* Logo */}
-    <div className="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div className="col-lg-auto col-md-4 col-sm-6 col-xs-12 mt-1">
       <div className="img-container">
         <img alt='logo' src="logo.png"></img>
       </div>

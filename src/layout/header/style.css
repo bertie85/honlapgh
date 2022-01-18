@@ -7,7 +7,7 @@
   font-size: calc(10px + 1vmin);
   color: white;
   border-bottom: antiquewhite 2px solid;
-  height: 80px;
+  min-height: 80px;
 }
 
 .container.header {
