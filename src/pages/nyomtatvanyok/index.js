@@ -8,7 +8,7 @@ const Dokumentumok = (props) => (
     <Section title="Étkeztetés">
       <ol>
         <p>
-          <li><a href="https://drive.google.com/uc?export=download&id=1FyiitHo28cQhuFmnqzGwgtnqXHfmD64v" download={true}>Tájékoztató a nyomtatványcsomag kitöltéséhez <Download /></a></li>
+          <li><a href="https://drive.google.com/uc?export=download&id=13AedgGGbDVg44kDJUKNJWZTKq3LKXXVV" download={true}>Tájékoztató a nyomtatványcsomag kitöltéséhez <Download /></a></li>
         </p>
         <p>
           <li><a href="https://drive.google.com/uc?export=download&id=1SVM5Lo0ZPoOsuseNrWtmt_kf4EBlaCS2" download={true}>Térítési díj-táblázat <Download /></a></li>
@@ -27,6 +27,9 @@ const Dokumentumok = (props) => (
         </p>
         <p>
           <li><a href="https://drive.google.com/uc?export=download&id=1mttgRTAlwVkYbtMXs07h30YY0uFpQCPQ" download={true}>Megállapodás <Download /></a></li>
+        </p>
+        <p>
+          <li><a href="https://drive.google.com/uc?export=download&id=1vgbslJxZ87W0q51oQ4YheN8lEzMCvWo0" download={true}>Egészségi állapotra vonatkozó igazolás <Download /></a></li>
         </p>
       </ol>
     </Section>
@@ -51,6 +54,9 @@ const Dokumentumok = (props) => (
         </p>
         <p>
           <li><a href="https://drive.google.com/uc?export=download&id=1HjS0a12hqQdyS3R8VSgQET2DJWGtHZuM" download={true}>Nyilatkozat adatkezeléshez <Download /></a></li>
+        </p>
+        <p>
+          <li><a href="https://drive.google.com/uc?export=download&id=1H5fqXK3Xxjw7HQTjLx1piNmOKMDyV3qd" download={true}>Megállapodás <Download /></a></li>
         </p>
         <p>
           <li><a href="https://drive.google.com/uc?export=download&id=1oUQUuvfd-ZHJLCOplQRpTBsLbWRQl6-G" download={true}>Értékelő-adatlap <Download /></a></li>

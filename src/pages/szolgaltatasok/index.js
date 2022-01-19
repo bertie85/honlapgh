@@ -6,7 +6,7 @@ const Szolgaltatasok = (props) => (
 
     <Section title="Étkeztetés">
       <p>
-        Munkanapokon napi egyszeri meleg ételt nyújtunk azoknak, akik életkoruk, betegségük, szociális állapotuk miatt nem képesek maguk,
+        Napi egyszeri meleg ételt nyújtunk azoknak, akik életkoruk, betegségük, szociális állapotuk miatt nem képesek maguk,
         illetve eltartottjaik számára azt tartósan vagy átmeneti jelleggel biztosítani.
       </p>
 
@@ -35,7 +35,7 @@ const Szolgaltatasok = (props) => (
       {/* TODO: tablazatot csatolni? */}
 
       <p>
-        Bővebb felvilágosítás Miklós Józsefné (Marcsi) étkeztetés-szervezőnél kérhető a <u>06 20 239 0968</u>.
+        Bővebb felvilágosítás az étkeztetés-szervezőnél kérhető a <u>06 20 239 0968</u> telefonszámon.
       </p>
     </Section>
 
@@ -74,7 +74,7 @@ const Szolgaltatasok = (props) => (
       </p>
 
       <p>
-        Bővebb információ, jelentkezés Jusztus Zsuzsa gondozásvezetőnél, a <u>06 20 239 6920</u> telefonszámon lehetséges.
+        Bővebb információ, jelentkezés a gondozásvezetőnél, a <u>06 20 239 6920</u> telefonszámon lehetséges.
       </p>
     </Section>
 
@@ -104,9 +104,6 @@ const Szolgaltatasok = (props) => (
           Helyi hangversenyek
         </li>
         <li>
-          Szenior örömtánc
-        </li>
-        <li>
           Múzeumlátogatás
         </li>
         <li>
@@ -115,8 +112,8 @@ const Szolgaltatasok = (props) => (
       </ul>
 
       <p>És még sok más.</p>
-      <p>Az Idősek Klubjának szolgáltatásai, a programokon való részvétel klubtagság esetén térítésmentesek. Bővebb felvilágosítás
-        Sándor Viktória és Szekeres Bertold klubgondozóktól kérhető a <u>06 20 250 3692</u> telefonszámon.
+      <p>Az Idősek Klubjának szolgáltatásai, a programokon való részvétel klubtagság esetén térítésmentesek.
+        Bővebb felvilágosítás a klubgondozóktól kérhető a <u>06 20 250 3692</u> vagy a <u>06 1 376 60 90</u> telefonszámon.
       </p>
 
     </Section>
