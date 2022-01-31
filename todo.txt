@@ -1,11 +1,17 @@
 TODO
 
+
+2. ellátottjogi képviselő neve, elérhetősége:(  faliújságon és a megállapodásokban is benne van) panasz esetén forduljon.....
+3. fenntartó neve, elérhetőségei: ahogyan a megállapodásokban benne van, panasz esetén forduljon..... címszó alatt
+4. fb
+
 képek a szolgáltatásokhoz           
 nav logo                            
 nyomtatványok            						done
 footer							                done
 nyitólap, köszöntő                  done
 aktualitások, kövesse fb           	
+http -> https redirect              done
 aktive link                         
 ikonok							                
 tabindex                            
@@ -15,7 +21,14 @@ faq
 galéria							                
 
 angol szöveg						            
-Google keresőben
+SEO
+
+
+Önkormányzat
+Ferencesek
+
+
+https://create-react-app.dev/docs/production-build/
 
 
 .App-logo-header {

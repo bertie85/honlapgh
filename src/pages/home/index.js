@@ -10,7 +10,7 @@ const Home = (props) => (
       </p>
 
       <p>
-        Isten hozta honlapunkon! Intézményünk 1995-ben nyitotta meg kapuit a Magyarok Nagyasszonya Ferences Rendtartomány égisze alatt.
+        Isten hozta honlapunkon! Intézményünk 1995-ben nyitotta meg kapuit a Magyarok Nagyasszonya Ferences Rendtartomány fenntartásában.
         A kerület - elsősorban - idős lakosai számára nyújtunk szolgáltatásokat. Célunk az, hogy ellátottjaink egy szeretetteljes, békés közösségre
         találjanak egy szép és nyugodt környezetben.
         Már a kezdetektől szerződésszerűen látunk el önkormányzati feladatokat, beleértve a szociális étkeztetést, nappali ellátást és a házi segítségnyújtást.

@@ -45,18 +45,11 @@ const Szolgaltatasok = (props) => (
       </p>
 
       <ul className="text">
-        <li>
-          Személyi és környezeti higiéné megtartásában
-        </li>
-        <li>
-          Étkezésben
-        </li>
-        <li>
-          Bevásárlásban (legfeljebb 5 kg a legközelebbi üzletből)
-        </li>
-        <li>
-          Szociális ügyintézésben
-        </li>
+        <li>Személyi és környezeti higiéné megtartásában</li>
+        <li>Étkezésben</li>
+        <li>Alapápolási feladatok elvégzésében</li>
+        <li>Bevásárlásban (legfeljebb 5 kg a legközelebbi üzletből)</li>
+        <li>Hivatalos ügyek intézésében</li>
       </ul>
 
       <p>

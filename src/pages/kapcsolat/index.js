@@ -1,6 +1,6 @@
 import Page from '../../components/page/page';
 import Section from '../../components/section/section';
-import { PersonCircle, EnvelopeFill, TelephoneFill, HouseFill } from 'react-bootstrap-icons';
+import { PersonCircle, EnvelopeFill, TelephoneFill, PhoneFill, HouseFill } from 'react-bootstrap-icons';
 
 const Kapcsolat = (props) => (
   <Page title="Kapcsolat">
@@ -15,6 +15,9 @@ const Kapcsolat = (props) => (
         <Section title="Telefon">
           <p className='d-flex align-items-center'>
             <TelephoneFill />&nbsp;06 1 392 54 34
+          </p>
+          <p className='d-flex align-items-center'>
+            <PhoneFill />&nbsp;06 20 236 30 32
           </p>
         </Section>
 

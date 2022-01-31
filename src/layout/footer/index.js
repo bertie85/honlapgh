@@ -31,7 +31,7 @@ const Footer = () => (
           </div>
 
           <div className='row mt-2 align-items-center'>
-            <TelephoneFill />&nbsp;06 1 394 22 48
+            <TelephoneFill />&nbsp;06 1 392 54 34
           </div>
 
           <div className='row mt-2 align-items-center'>

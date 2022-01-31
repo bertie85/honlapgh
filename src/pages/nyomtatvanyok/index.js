@@ -29,7 +29,10 @@ const Dokumentumok = (props) => (
           <li><a href="https://drive.google.com/uc?export=download&id=1mttgRTAlwVkYbtMXs07h30YY0uFpQCPQ" download={true}>Megállapodás <Download /></a></li>
         </p>
         <p>
-          <li><a href="https://drive.google.com/uc?export=download&id=1vgbslJxZ87W0q51oQ4YheN8lEzMCvWo0" download={true}>Egészségi állapotra vonatkozó igazolás <Download /></a></li>
+          <li><a href="https://drive.google.com/uc?export=download&id=1_CPXvR2CnnSLBrMrlYdVzUEaES17KeVF" download={true}>Értesítés <Download /></a></li>
+        </p>
+        <p>
+          <li><a href="https://drive.google.com/uc?export=download&id=1gkpQxou6ZWA2twIdpnuftrFeoeSNhkAu" download={true}>Egészségi állapotra vonatkozó igazolás <Download /></a></li>
         </p>
       </ol>
     </Section>
