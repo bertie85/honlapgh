@@ -11,6 +11,7 @@ https://2.kerulet.ittlakunk.hu/holmi/vallasi-intezmenyek-templomok/kajoni-janos-
 https://www.nyitvatartas24.hu/uzlet/Budapest-Magyarok%2520Nagyasszonya%2520Ferences%2520Rendtartom%25C3%25A1ny%2520Gondvisel%25C3%25A9s%2520H%25C3%25A1za%2520Gondoz%25C3%25A1si%2520K%25C3%25B6zpont%2520%25C3%25A9s%2520Id%25C5%2591sek%2520Klubja-620251H.html
 
 képek a szolgáltatásokhoz           
+SEO                                 
 nav logo                            
 nyomtatványok            						done
 footer							                done
@@ -26,7 +27,7 @@ faq
 galéria							                
 
 angol szöveg						            
-SEO
+
 
 
 Önkormányzat
